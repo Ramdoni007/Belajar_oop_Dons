@@ -25,3 +25,4 @@ class Noted(tittle: String ) {
             get() =tittle.toUpperCase()
 
     }
+
