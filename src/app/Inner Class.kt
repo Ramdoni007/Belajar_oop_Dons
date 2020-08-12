@@ -6,7 +6,7 @@ fun main() {
 
 val istrike1 = KoleksiIstri("Doni")
 val daftar1 =istrike1.SuperIstri("Pevita")
-val daftar2 = istrike1.SuperIstri("Raisa")
+val daftar2 = istrike1.SuperIstri("Milea")
 
 
 val istrike2 = KoleksiIstri("Doni")
