@@ -16,6 +16,10 @@ fun main() {
     val app = App("Ryan Maulana")
 
 
+    println(Aplikasi.toUpper("doni selalu ceria"))
+    println(App.toLowwer("April Selalu MENATAP DONI"))
+
+
 
 
 
