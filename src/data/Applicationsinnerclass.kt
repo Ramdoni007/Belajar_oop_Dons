@@ -1,6 +1,6 @@
 package data
 
-class Applicationsinnerclass {
+class Applicationsinnerclass (val name : String ){
 
     companion object Uttilites{
 
